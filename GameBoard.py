@@ -1,3 +1,4 @@
+# Notes
 # Imports
 
 import pygame as pg
