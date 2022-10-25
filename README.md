@@ -1,1 +1,1 @@
-# Games created using PyGame
+# Python games using PyGame
